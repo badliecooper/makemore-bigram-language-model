@@ -10,6 +10,9 @@ Implementation of a character-level Bigram Language Model inspired by Andrej Kar
 - Gradient Descent
 - PyTorch
 
+## Dataset
+ https://raw.githubusercontent.com/karpathy/makemore/master/names.txt
+
 ## Results
 
 Generated realistic name-like sequences using learned character transition probabilities.
